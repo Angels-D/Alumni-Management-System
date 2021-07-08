@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image.ico</file>
+        <file>style_sheet.qss</file>
+        <file>filter.svg</file>
+        <file>filter_black.svg</file>
+        <file>filter_red.svg</file>
+    </qresource>
+</RCC>
