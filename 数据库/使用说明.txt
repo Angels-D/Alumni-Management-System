@@ -1,0 +1,14 @@
+#数据库版本
+SQL=MYSQL Win32 5.5.62
+#数据库名
+Data=Alumni
+#用户名
+User=AnglesD
+#使用端口
+Port=3306
+#初始密码
+Password=root
+
+#empty-空表，仅含结构
+#new-主数据空表，含类型数据
+#test-测试数据库
